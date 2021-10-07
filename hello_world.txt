@@ -1,12 +1,3 @@
 hi anna!
-day one~
-    - new day one!
-        -> love anna!
-
-
-
-
-
-
-day two~
-    - hi day two!
+<a herf = "day one page.html">
+<a herf = "day two page.html">
